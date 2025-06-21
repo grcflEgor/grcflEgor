@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Egor! 👋
 
-<!--
-**GracefulEgor/GracefulEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Golang Developer with 3.5 years of expertise in building robust, scalable, and high-performance backend systems. My passion lies in crafting clean, efficient, and concurrent code, especially within distributed environments.  I thrive on solving complex problems and enhancing system resilience.
 
-Here are some ideas to get you started:
+---
+### 🚀 What I'm passionate about:
+* Designing and implementing **microservices architectures**.
+* Building high-throughput **data processing pipelines** with a focus on concurrency and performance optimization.
+* Ensuring **system observability** through comprehensive monitoring, logging, and tracing (Prometheus, Grafana, Jaeger, OpenTelemetry).
+* Developing **fault-tolerant solutions** using patterns like Transaction Outbox.
+* Advocating for **Clean Architecture** and **SOLID principles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack:
+* **Languages:** Golang, Python, JavaScript 
+* **Backend & Concurrency:** Goroutines, Channels, `context.Context`, gRPC, REST API, Worker Pools 
+* **Databases:** PostgreSQL, Redis, MongoDB, ClickHouse 
+* **Cloud & DevOps:** Docker, Docker-compose, Kubernetes (k8s) 
+* **Monitoring & Tracing:** Prometheus, Grafana, Jaeger, OpenTelemetry 
+* **Messaging:** Kafka, Apache Kafka 
+* **Architectural Patterns:** Clean Architecture, Microservices, Transaction Outbox, Cache-Aside, DDD, System Disign
+* **Development Practices:** Code Review, Automated Testing, Unit Testing, SQL Optimization 
+* **Tools:** Git, Linux, Swagger 
+
+---
+
+### 🌱 I'm currently learning:
+* Advanced Distributed Systems patterns.
+* Deep dive into Kubernetes internals.
+
+---
+
+### 📫 How to reach me:
+* **Email:** [egordmitrienko97@gmail.com](mailto:egordmitrienko97@gmail.com) 
+* **Telegram:** 
+
+---
