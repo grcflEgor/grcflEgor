@@ -33,6 +33,6 @@ Experienced Golang Developer with 3.5 years of expertise in building robust, sca
 
 ### 📫 How to reach me:
 * **Email:** [egordmitrienko97@gmail.com](mailto:egordmitrienko97@gmail.com) 
-* **Telegram:** 
+* **Telegram:** [@Zolotoy_Kupol](https://t.me/Zolotoy_Kupol)
 
 ---
